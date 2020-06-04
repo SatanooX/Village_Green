@@ -131,6 +131,7 @@ CREATE TABLE Photo
 );
 
 /* Alter Tables */
+/* Alter Table ();
 
 
 /* DELETE TABLES */
