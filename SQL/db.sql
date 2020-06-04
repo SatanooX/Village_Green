@@ -1,3 +1,7 @@
+/* CREATE DATABASE */
 DROP DATABASE IF EXISTS Village_Green;
-CREATE Village_Green;
+CREATE DATABASE Village_Green;
 Use Village_Green;
+
+/* DELETE DATABASE */
+DROP DATABASE Village_Green;
